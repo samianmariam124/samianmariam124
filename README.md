@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./github_banner.png" width="100%" alt="Samian Mariam — Full Stack Developer"/>
+<img src="./github-banner.PNG" width="100%" alt="Samian Mariam — Full Stack Developer"/>
 
 <br/>
 
