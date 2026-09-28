@@ -36,7 +36,7 @@
 
 ```text
 NAME       : Samian Mariam
-ROLE       : Network Engineer & Software Developmer
+ROLE       : Network Engineer & Software Developer
 LOCATION   : Dhaka, Bangladesh 
 UNIVERSITY : Northern University Bangladesh
 STATUS     : Learning
