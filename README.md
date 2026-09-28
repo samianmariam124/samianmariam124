@@ -18,8 +18,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rajmukut791&label=PROFILE+VIEWS&style=for-the-badge&color=00B8D4&labelColor=050A12"/>
-<img src="https://img.shields.io/github/followers/rajmukut791?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=050A12"/>
+<img src="https://komarev.com/ghpvc/?username=samianmariam124&label=PROFILE+VIEWS&style=for-the-badge&color=00B8D4&labelColor=050A12"/>
+<img src="https://img.shields.io/github/followers/samianmariam?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=050A12"/>
 
 <br/><br/>
 
@@ -265,7 +265,7 @@ developer:
 
 ### `REAL PROBLEMS. PRACTICAL SOFTWARE.`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=850&lines=SELECTED+PROJECTS+LOADING...;UNIVERSITY+CONNECT+%E2%80%A2+COMMUNITY+PLATFORM;NIRBHOY+BANGLADESH+%E2%80%A2+REPORTING+PLATFORM;MEDHBOOK+%E2%80%A2+HEALTHCARE+SYSTEM;PORTFOLIO+%E2%80%A2+DEVELOPER+EXPERIENCE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=850&lines=SELECTED+PROJECTS+LOADING...;Meal+Management+%E2%80%A2+COMMUNITY+PLATFORM;NIRBHOY+BANGLADESH+%E2%80%A2+REPORTING+PLATFORM;House+Rice+%E2%80%A2+HEALTHCARE+SYSTEM;PORTFOLIO+%E2%80%A2+DEVELOPER+EXPERIENCE" />
 
 </div>
 
@@ -283,15 +283,15 @@ developer:
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajmukut791&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samianmariam124&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmukut791&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samianmariam124&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=10"/>
 
 <br/><br/>
 
 ### `COMMIT_STREAK`
 
-<img src="https://streak-stats.demolab.com?user=rajmukut791&theme=tokyonight&hide_border=true&border_radius=20" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=samianmariam124&theme=tokyonight&hide_border=true&border_radius=20" width="70%"/>
 
 </div>
 
@@ -315,7 +315,7 @@ developer:
 
 ### `365 DAYS OF DEVELOPMENT`
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Raj Mukut 3D Contribution Graph"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt=" Samian Mariam 3D Contribution Graph"/>
 
 <br/>
 
@@ -528,7 +528,7 @@ samianmariam@github:~$ ./current_mission.sh
 raj@github:~$ echo $MINDSET
 Build → Learn → Improve → Repeat
 
-raj@github:~$ _
+samianmariam@github:~$ _
 ```
 
 </div>
@@ -694,10 +694,10 @@ problems.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&text=RAJ%20MUKUT&fontSize=34&fontColor=FFFFFF&animation=twinkling&fontAlignY=70&desc=FULL-STACK%20DEVELOPER%20%7C%20BUILDING%20FOR%20THE%20REAL%20WORLD&descSize=13&descAlignY=88" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&text=Samian%20Mariam&fontSize=34&fontColor=FFFFFF&animation=twinkling&fontAlignY=70&desc=FULL-STACK%20DEVELOPER%20%7C%20BUILDING%20FOR%20THE%20REAL%20WORLD&descSize=13&descAlignY=88" width="100%"/>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   END // RAJ MUKUT                           -->
+<!--                   END // Samian Mariam                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
