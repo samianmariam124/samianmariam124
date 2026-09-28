@@ -1,94 +1,119 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    RAJ MUKUT // GITHUB PROFILE                     ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                    S A M I A N   M A R I A M                        ║
+║                                                                      ║
+║             NETWORK ENGINEERING × SOFTWARE DEVELOPMENT               ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<img src="./github-banner.PNG" width="100%" alt="Samian Mariam — Full Stack Developer"/>
+<img src="./github-banner.PNG" width="100%" alt="Samian Mariam"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&repeat=true&width=950&height=70&lines=%E2%9D%AF+Initializing+Developer+Profile...;%E2%9D%AF+Hello%2C+I'm+Raj+Mukut;%E2%9D%AF+Full-Stack+Web+Developer;%E2%9D%AF+Laravel+%E2%80%A2+PHP+%E2%80%A2+React.js;%E2%9D%AF+Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB;%E2%9D%AF+Building+Secure+%26+Scalable+Systems;%E2%9D%AF+Turning+Ideas+Into+Real-World+Software;%E2%9D%AF+Build+%E2%86%92+Learn+%E2%86%92+Improve+%E2%86%92+Repeat" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=650&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=65&lines=%E2%9D%AF+INITIALIZING+SAMIAN_MARIAM...;%E2%9D%AF+NETWORK+ENGINEER;%E2%9D%AF+SOFTWARE+DEVELOPER;%E2%9D%AF+NETWORKS+%C3%97+SYSTEMS+%C3%97+SOFTWARE;%E2%9D%AF+LEARNING+%E2%86%92+BUILDING+%E2%86%92+EVOLVING"
+alt="Samian Mariam"
+/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ROLE-FULL--STACK%20DEVELOPER-00E5FF?style=for-the-badge&labelColor=050A12"/>
-<img src="https://img.shields.io/badge/FOCUS-WEB%20APPLICATIONS-7C3AED?style=for-the-badge&labelColor=050A12"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00C853?style=for-the-badge&labelColor=050A12"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=samianmariam124&label=PROFILE+VIEWS&style=for-the-badge&color=00B8D4&labelColor=050A12"/>
-<img src="https://img.shields.io/github/followers/samianmariam?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=050A12"/>
+<img src="https://img.shields.io/badge/NETWORK-ENGINEERING-00E5FF?style=for-the-badge&labelColor=050A12"/>
+<img src="https://img.shields.io/badge/SOFTWARE-DEVELOPMENT-8B5CF6?style=for-the-badge&labelColor=050A12"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-00C853?style=for-the-badge&labelColor=050A12"/>
 
 <br/><br/>
 
-### `DHAKA 🇧🇩`　•　`B.Sc. in CSE 🎓`　•　`FULL-STACK DEVELOPER `
+<img src="https://komarev.com/ghpvc/?username=samianmariam124&label=PROFILE%20VIEWS&style=flat-square&color=00B8D4"/>
+<img src="https://img.shields.io/github/followers/samianmariam124?label=FOLLOWERS&style=flat-square&color=8B5CF6"/>
+
+<br/><br/>
+
+<code>📍 DHAKA, BANGLADESH</code>
+&nbsp; • &nbsp;
+<code>🌐 NETWORK</code>
+&nbsp; • &nbsp;
+<code>💻 SOFTWARE</code>
+&nbsp; • &nbsp;
+<code>🎓 CSE</code>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## `◢ DIGITAL_IDENTITY ◣`
+
+```text
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║               S A M I A N   M A R I A M                 ║
+║                                                           ║
+║        NETWORK ENGINEER × SOFTWARE DEVELOPER              ║
+║                                                           ║
+║           CONNECT • BUILD • LEARN • EVOLVE                ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <table>
 <tr>
 
-<td width="52%" valign="top">
+<td width="58%" valign="top">
 
-### `> WHO_AM_I`
+### `01 // WHO_AM_I`
 
-```text
-NAME       : Samian Mariam
-ROLE       : Network Engineer Software Developer
-LOCATION   : Dhaka, Bangladesh 
-UNIVERSITY : Northern University Bangladesh
-STATUS     : Learning
-```
+I'm **Samian Mariam**, a CSE student/developer interested in both **Network Engineering** and **Software Development**.
 
-I enjoy transforming **ideas into functional software** through clean interfaces, structured backend architecture and practical database design.
+My focus is understanding how modern systems **connect, communicate and operate**, while continuously improving my software development skills.
 
-My main interests include:
+<br/>
 
-`Full-Stack Development`
+**🎓 Education**
 
-`Backend Engineering`
+Computer Science & Engineering  
+**Northern University Bangladesh**
 
-`Secure Web Applications`
+<br/>
 
-`Database Architecture`
+**📍 Location**
 
-`Software System Design`
+Dhaka, Bangladesh 🇧🇩
 
 </td>
 
-<td width="48%" valign="top">
+<td width="42%" valign="top">
 
-### `> DEVELOPER.config`
+### `02 // PROFILE.config`
 
 ```yaml
-developer:
-  name: Samian Mariam 
+user:
+  Samian Mariam
 
-  mindset:
-    - Build
-    - Learn
-    - Improve
-    - Repeat
+fields:
+  - Network Engineering
+  - Software Development
 
-  frontend:
-    - React.js
-    - JavaScript
-    - Tailwind CSS
+interests:
+  - Computer Networks
+  - Web Development
+  - Backend Systems
+  - Databases
 
-  backend:
-    - Laravel
-    - PHP
-    - Node.js
-    - Express.js
+status:
+  Learning & Building
 
-  database:
-    - MySQL
-    - MongoDB
-
-  mission:
-    "Build useful software"
+mindset:
+  Connect
+  Build
+  Learn
+  Evolve
 ```
 
 </td>
@@ -96,56 +121,45 @@ developer:
 </tr>
 </table>
 
----
+<br/>
 
 <div align="center">
 
-# ⚡ TECHNOLOGY // CORE
+## `⚡ TECHNOLOGY_CORE`
 
-### `FRONTEND_INTERFACE`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark"/>
-
-<br/><br/>
-
-### `BACKEND_ENGINE`
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark"/>
-
-<br/><br/>
-
-### `DATA_LAYER`
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
-
-<br/><br/>
-
-### `DEVELOPMENT_ENVIRONMENT`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/>
-
-</div>
+### `NETWORKS × DEVELOPMENT × SYSTEMS`
 
 <br/>
 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,nodejs,express,mysql,mongodb,git,github,vscode,postman&theme=dark&perline=16"/>
+
+<br/><br/>
+
 <table>
+
 <tr>
+
+<td width="25%" align="center">
+
+### 🌐
+
+### `NETWORK`
+
+Networking  
+Infrastructure  
+Connectivity
+
+</td>
 
 <td width="25%" align="center">
 
 ### 🎨
 
-## FRONTEND
+### `FRONTEND`
 
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-`React.js`
-
-`Tailwind`
+HTML / CSS  
+JavaScript  
+React.js
 
 </td>
 
@@ -153,17 +167,11 @@ developer:
 
 ### ⚙️
 
-## BACKEND
+### `BACKEND`
 
-`PHP`
-
-`Laravel`
-
-`Node.js`
-
-`Express.js`
-
-`REST API`
+PHP / Laravel  
+Node.js  
+Express.js
 
 </td>
 
@@ -171,533 +179,344 @@ developer:
 
 ### 🗄️
 
-## DATABASE
+### `DATA`
 
-`MySQL`
-
-`MongoDB`
-
-`Data Modeling`
-
-`Relationships`
-
-`Queries`
-
-</td>
-
-<td width="25%" align="center">
-
-### 🔐
-
-## SYSTEMS
-
-`Authentication`
-
-`Authorization`
-
-`Role Access`
-
-`Security`
-
-`Architecture`
+MySQL  
+MongoDB  
+Data Modeling
 
 </td>
 
 </tr>
+
 </table>
 
----
-
-<div align="center">
-
-# ◈ SYSTEM // ARCHITECTURE
+<br/>
 
 ```text
-                         ┌─────────────────┐
-                         │      USER       │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                    ┌─────────────────────────┐
-                    │     USER INTERFACE      │
-                    │                         │
-                    │ React • JS • Tailwind   │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │    APPLICATION LAYER    │
-                    │                         │
-                    │ Laravel • PHP • Node.js │
-                    └────────────┬────────────┘
-                                 │
-                 ┌───────────────┴────────────────┐
-                 │                                │
-                 ▼                                ▼
-       ┌───────────────────┐           ┌───────────────────┐
-       │ AUTH / SECURITY   │           │ BUSINESS LOGIC    │
-       └─────────┬─────────┘           └─────────┬─────────┘
-                 │                               │
-                 └───────────────┬───────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       DATA LAYER        │
-                    │                         │
-                    │    MySQL • MongoDB      │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │    WORKING PRODUCT      │
-                    └─────────────────────────┘
+                       DIGITAL SYSTEM
+                             │
+              ┌──────────────┴──────────────┐
+              │                             │
+              ▼                             ▼
+          NETWORK                        SOFTWARE
+              │                             │
+       CONNECTIVITY                  APPLICATION
+              │                             │
+              └──────────────┬──────────────┘
+                             │
+                             ▼
+                           DATA
+                             │
+                             ▼
+                         SOLUTION
 ```
-
-### `IDEA → ARCHITECTURE → DEVELOPMENT → PRODUCT`
-
-</div>
-
----
-
-<div align="center">
-
-# 🚀 PROJECT // COMMAND CENTER
-
-### `REAL PROBLEMS. PRACTICAL SOFTWARE.`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=850&lines=SELECTED+PROJECTS+LOADING...;Meal+Management+%E2%80%A2+COMMUNITY+PLATFORM;NIRBHOY+BANGLADESH+%E2%80%A2+REPORTING+PLATFORM;House+Rice+%E2%80%A2+HEALTHCARE+SYSTEM;PORTFOLIO+%E2%80%A2+DEVELOPER+EXPERIENCE" />
 
 </div>
 
 <br/>
 
+<div align="center">
+
+## `🚀 PROJECT_LAB`
+
+### `LEARNING BY BUILDING`
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1900&pause=650&color=8B5CF6&center=true&vCenter=true&width=800&height=50&lines=DESIGN+%E2%86%92+DEVELOP+%E2%86%92+TEST;NETWORK+%C3%97+SOFTWARE+%C3%97+DATA;TURNING+IDEAS+INTO+WORKING+SYSTEMS"
+alt="Projects"
+/>
+
+</div>
+
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
+### 🍽️ `01 // MEAL MANAGEMENT`
 
-# 📡 LIVE // DEVELOPER TELEMETRY
+**Management Application**
 
-### `REAL-TIME GITHUB DATA`
+A structured software project focused on simplifying meal-related management and information handling.
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samianmariam124&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&rank_icon=github"/>
+`Web Application` `Database` `Management`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samianmariam124&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=10"/>
+<br/>
+
+> `MANAGE → TRACK → ORGANIZE`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏠 `02 // HOUSE RENT`
+
+**Property Management Project**
+
+A software-based approach for organizing house/property rental information and related operations.
+
+<br/>
+
+`Software` `Database` `Web`
+
+<br/>
+
+> `SEARCH → CONNECT → MANAGE`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 `03 // SOFTWARE PROJECTS`
+
+Building practical applications while strengthening development fundamentals.
+
+<br/>
+
+`Frontend`
+
+`Backend`
+
+`Database`
+
+`Authentication`
+
+<br/>
+
+> `IDEA → CODE → PRODUCT`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 `04 // NETWORK LAB`
+
+Exploring computer networking, connectivity and infrastructure alongside software development.
+
+<br/>
+
+`Networking`
+
+`Systems`
+
+`Connectivity`
+
+`Infrastructure`
+
+<br/>
+
+> `CONNECT → CONFIGURE → TEST`
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<div align="center">
+
+## `📡 LIVE_SYSTEM_TELEMETRY`
+
+### `GITHUB // SAMIANMARIAM124`
+
+<br/>
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=samianmariam124&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=samianmariam124&layout=compact&theme=tokyonight&hide_border=true&border_radius=18&langs_count=8"/>
 
 <br/><br/>
 
-### `COMMIT_STREAK`
+<img width="67%"
+src="https://streak-stats.demolab.com?user=samianmariam124&theme=tokyonight&hide_border=true&border_radius=18"/>
 
-<img src="https://streak-stats.demolab.com?user=samianmariam124&theme=tokyonight&hide_border=true&border_radius=20" width="70%"/>
+<br/><br/>
 
-</div>
-
----
-
-<div align="center">
-
-# 📈 ACTIVITY // SIGNAL
-
-### `CONTRIBUTION STREAM`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajmukut791&theme=tokyo-night&hide_border=true&radius=16&area=true&custom_title=RAJ%20MUKUT%20%2F%2F%20CONTRIBUTION%20SIGNAL" width="100%"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=samianmariam124&theme=tokyo-night&hide_border=true&radius=18&area=true&custom_title=SAMIAN%20MARIAM%20%2F%2F%20ACTIVITY%20SIGNAL"
+width="100%"
+alt="Samian Mariam Activity Graph"
+/>
 
 </div>
-
----
-
-<div align="center">
-
-# 🌌 3D // CONTRIBUTION UNIVERSE
-
-### `365 DAYS OF DEVELOPMENT`
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt=" Samian Mariam 3D Contribution Graph"/>
-
-<br/>
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║               CONSISTENCY BUILDS MASTERY                 ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
-# 🧠 DEVELOPMENT // PIPELINE
-
-</div>
-
-<table>
-<tr>
-
-<td width="20%" align="center">
-
-### `01`
-
-# 💡
-
-### DISCOVER
-
-Understand  
-the problem
-
-</td>
-
-<td width="20%" align="center">
-
-### `02`
-
-# 🧩
-
-### DESIGN
-
-Plan  
-architecture
-
-</td>
-
-<td width="20%" align="center">
-
-### `03`
-
-# 💻
-
-### DEVELOP
-
-Build  
-the system
-
-</td>
-
-<td width="20%" align="center">
-
-### `04`
-
-# 🧪
-
-### TEST
-
-Find and  
-fix issues
-
-</td>
-
-<td width="20%" align="center">
-
-### `05`
-
-# 🚀
-
-### EVOLVE
-
-Optimize  
-and improve
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-```text
-   DISCOVER          DESIGN           DEVELOP           TEST            EVOLVE
-      │                │                 │                │                │
-      ▼                ▼                 ▼                ▼                ▼
- ┌─────────┐      ┌─────────┐       ┌─────────┐      ┌─────────┐      ┌─────────┐
- │ PROBLEM │ ───► │ SYSTEM  │ ────► │  CODE   │ ───► │ QUALITY │ ───► │ PRODUCT │
- └─────────┘      └─────────┘       └─────────┘      └─────────┘      └─────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-# 🎯 MISSION // 2026
-
-</div>
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-# ⚡
-
-### BUILD
-
-More complete  
-real-world  
-applications.
-
-</td>
-
-<td width="33%" align="center">
-
-# 🧠
-
-### MASTER
-
-Backend architecture,  
-security and  
-system design.
-
-</td>
-
-<td width="33%" align="center">
-
-# 🌍
-
-### IMPACT
-
-Build software  
-that creates  
-real value.
-
-</td>
-
-</tr>
-</table>
 
 <br/>
 
 <div align="center">
 
+## `🌌 3D_CONTRIBUTION_NETWORK`
+
+### `365 DAYS // DEVELOPMENT SIGNAL`
+
+<br/>
+
+<img
+src="./profile-3d-contrib/profile-night-rainbow.svg"
+width="100%"
+alt="Samian Mariam 3D Contribution Graph"
+/>
+
+<br/>
+
 ```text
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│                      DEVELOPMENT RADAR                           │
-│                                                                  │
-│  FULL-STACK DEVELOPMENT        ███████████████████░              │
-│                                                                  │
-│  BACKEND ENGINEERING           ████████████████████              │
-│                                                                  │
-│  DATABASE ARCHITECTURE         ██████████████████░░              │
-│                                                                  │
-│  APPLICATION SECURITY          ██████████████████░░              │
-│                                                                  │
-│  SYSTEM DESIGN                 █████████████████░░░              │
-│                                                                  │
-│  CONTINUOUS LEARNING           ████████████████████              │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
+              LEARN
+                │
+                ▼
+             PRACTICE
+                │
+                ▼
+              BUILD
+                │
+                ▼
+             IMPROVE
+                │
+                ▼
+              REPEAT
 ```
+
+### `PROGRESS IS BUILT ONE COMMIT AT A TIME`
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-# 🖥️ DEVELOPER // TERMINAL
+## `🎯 CURRENT_DIRECTION`
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+### 🌐 `NETWORK`
+
+Computer Networks
+
+Infrastructure
+
+Connectivity
+
+</td>
+
+<td width="33%" align="center">
+
+### 💻 `DEVELOP`
+
+Web Applications
+
+Backend Systems
+
+Databases
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 `GROW`
+
+Real Projects
+
+Problem Solving
+
+Continuous Learning
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## `>_ SYSTEM_TERMINAL`
 
 ```bash
-samianmariam@github:~$ whoami
-Samian Mariam
-
-samianmariam@github:~$ cat role.txt
-Full-Stack Developer
-
-samianmariam@github:~$ cat location.txt
-Dhaka, Bangladesh 🇧🇩
-
-raj@github:~$ cat education.txt
-B.Sc. in Computer Science & Engineering
-Northern University Bangladesh
-
-samianmariam@github:~$ ./current_mission.sh
-
-[✓] Build useful software
-[✓] Improve architecture
-[✓] Write cleaner code
-[✓] Learn continuously
-[✓] Solve real-world problems
-
-raj@github:~$ echo $MINDSET
-Build → Learn → Improve → Repeat
-
-samianmariam@github:~$ _
+┌──(samian㉿github)-[~/profile]
+│
+├─$ whoami
+│  Samian Mariam
+│
+├─$ role
+│  Network Engineering × Software Development
+│
+├─$ education
+│  Computer Science & Engineering
+│  Northern University Bangladesh
+│
+├─$ location
+│  Dhaka, Bangladesh
+│
+├─$ mission
+│  Learn technologies and build practical systems.
+│
+└─$ status
+   ● LEARNING
+   ● BUILDING
+   ● EVOLVING _
 ```
 
 </div>
-
----
-
-<div align="center">
-
-# ⚙️ SYSTEM // STATUS
-
-```text
-╔════════════════════════════════════════════════════════════════╗
-║                     DEVELOPER SYSTEM                          ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  USER          Samian Mariam                                    ║
-║  ROLE          Full-Stack Developer                           ║
-║  LOCATION      Dhaka, Bangladesh                         ║
-║  EDUCATION     B.Sc. in CSE                                   ║
-║  UNIVERSITY    Northern University Bangladesh                 ║
-║                                                                ║
-║  BUILD MODE    ████████████████████  ONLINE                   ║
-║  LEARNING      ████████████████████  CONTINUOUS               ║
-║  CURIOSITY     ████████████████████  MAXIMUM                  ║
-║  COFFEE        ███████████████████░  REQUIRED                 ║
-║                                                                ║
-║  SYSTEM STATUS ● OPERATIONAL                                  ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
-# 💎 ENGINEERING // PRINCIPLES
-
-</div>
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### `01`
-
-## CLEAN
-
-Readable code.
-
-Maintainable structure.
-
-</td>
-
-<td width="25%" align="center">
-
-### `02`
-
-## SECURE
-
-Protect users.
-
-Protect data.
-
-</td>
-
-<td width="25%" align="center">
-
-### `03`
-
-## SCALABLE
-
-Design beyond  
-today.
-
-</td>
-
-<td width="25%" align="center">
-
-### `04`
-
-## USEFUL
-
-Solve actual  
-problems.
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 💭 DEVELOPER // MANIFESTO
 
 <br/>
 
-### `I don't want to build software just because I can.`
+<div align="center">
 
-### `I want to build software because it solves something.`
+## `◈ CONNECTION_PORT`
+
+### `CONNECTING NETWORKS. BUILDING SOFTWARE.`
+
+<br/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&height=55&lines=%5B+NETWORK+ENGINEERING+%5D;%5B+SOFTWARE+DEVELOPMENT+%5D;%5B+CONTINUOUS+LEARNING+%5D;%5B+BUILDING+THE+NEXT+SYSTEM+%5D"
+alt="Samian Mariam"
+/>
 
 <br/>
 
 ```text
-                    THINK DIFFERENTLY
-                           │
-                           ▼
-                    DESIGN CAREFULLY
-                           │
-                           ▼
-                     BUILD CLEANLY
-                           │
-                           ▼
-                      TEST DEEPLY
-                           │
-                           ▼
-                     IMPROVE DAILY
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│                S A M I A N   M A R I A M                  │
+│                                                            │
+│         NETWORK ENGINEERING × SOFTWARE DEVELOPMENT          │
+│                                                            │
+│                 DHAKA • BANGLADESH 🇧🇩                     │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
+
+### `CONNECT`　→　`BUILD`　→　`LEARN`　→　`EVOLVE`
 
 <br/>
 
-> ## `IDEAS BECOME VALUABLE WHEN THEY BECOME USEFUL SOFTWARE.`
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&text=SAMIAN%20MARIAM&fontSize=31&fontColor=FFFFFF&animation=twinkling&fontAlignY=72&desc=NETWORK%20ENGINEERING%20%C3%97%20SOFTWARE%20DEVELOPMENT&descSize=12&descAlignY=90"
+width="100%"
+/>
 
 </div>
 
----
-
-<div align="center">
-
-# 🌐 CONNECTION // PORT
-
-### `READY FOR THE NEXT BUILD`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2100&pause=650&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=%5B+OPEN+TO+LEARNING+%5D;%5B+OPEN+TO+COLLABORATION+%5D;%5B+OPEN+TO+NEW+TECHNOLOGIES+%5D;%5B+OPEN+TO+BUILDING+USEFUL+SOFTWARE+%5D;%5B+LET'S+BUILD+SOMETHING+AMAZING+%5D" />
-
-<br/>
-
-### `💻 CODE`　→　`⚙️ BUILD`　→　`🧠 LEARN`　→　`🔥 IMPROVE`
-
-<br/>
-
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║                       THANKS FOR VISITING                        ║
-║                                                                  ║
-║                         Samian Mariam                            ║
-║                                                                  ║
-║                      FULL-STACK DEVELOPER                        ║
-║                                                                  ║
-║                DHAKA, BANGLADESH  • WORLD                        ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=700&color=7C3AED&center=true&vCenter=true&repeat=true&width=700&lines=%3E+Build+Something+Useful.;%3E+Learn+Something+New.;%3E+Improve+Every+Day.;%3E+Repeat." />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&text=Samian%20Mariam&fontSize=34&fontColor=FFFFFF&animation=twinkling&fontAlignY=70&desc=FULL-STACK%20DEVELOPER%20%7C%20BUILDING%20FOR%20THE%20REAL%20WORLD&descSize=13&descAlignY=88" width="100%"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   END // Samian Mariam                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--
+══════════════════════════════════════════════════════════════════════
+                     END // SAMIAN MARIAM
+══════════════════════════════════════════════════════════════════════
+-->
