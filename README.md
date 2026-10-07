@@ -513,7 +513,7 @@ Full-Stack Developer
 samianmariam@github:~$ cat location.txt
 Dhaka, Bangladesh 🇧🇩
 
-raj@github:~$ cat education.txt
+samianmariam@github:~$ cat education.txt
 B.Sc. in Computer Science & Engineering
 Northern University Bangladesh
 
